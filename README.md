@@ -20,3 +20,5 @@ https://gcc.gnu.org/onlinedocs/gfortran/Fortran-Dialect-Options.html
 IBM Fortran IV
 http://bitsavers.trailing-edge.com/pdf/ibm/1130/lang/GC26-3715-8_1130_1800_Basic_FORTRAN_IV_Language_Jan73.pdf
 
+Edit via pull request
+
