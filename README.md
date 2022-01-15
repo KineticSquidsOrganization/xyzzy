@@ -2,7 +2,7 @@
 
 Source code: http://rickadams.org/adventure/e_downloads.html
 
-Explanation: http://www.digitalhumanities.org/dhq/vol/001/2/000009/000009.html#section02 (not sure this matches to the source code link)
+Explanation: http://www.digitalhumanities.org/dhq/vol/001/2/000009/000009.html#section02 (not sure this matches the source code)
 
 Play: https://www.amc.com/shows/halt-and-catch-fire/exclusives/colossal-cave-adventure
 
